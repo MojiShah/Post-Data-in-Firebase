@@ -1,0 +1,35 @@
+.Form {
+    width: 40%;
+    height: 60%;
+    border: 5px solid white;
+    border-radius: 8%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: transparent;
+}
+
+.Form input {
+    background-color: #fff;
+    width: 80%;
+    height: 40px;
+    padding: 20px 10px;
+    border-radius: 5px;
+    font-size: 22px;
+
+}
+
+.Form button {
+    width: 80%;
+    height: 40px;
+    padding: 20px 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #e21c1c;
+}
